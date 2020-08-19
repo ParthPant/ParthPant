@@ -1,3 +1,5 @@
+<img src="https://github.com/ParthPant/ParthPant/blob/master/parth.png" height="75px"/>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on:                   C++ / Machine Learning                                      
